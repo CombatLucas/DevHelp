@@ -1,0 +1,113 @@
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #7971c2;
+    padding: 15px;
+}
+
+.box-content{
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #2c237a;
+}
+
+.box-content img{
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    animation-delay: 1ms;
+}
+
+.box-content p{
+    margin-left: 40px;
+
+    font-size: 18px;
+    color: rgb(240, 240, 240);
+    letter-spacing: .1rem;
+    line-height: 2.5rem;
+}
+
+.box-information{
+    background: #7971c2;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px 40px 40px 40px;
+}
+
+.item-information{
+    cursor: pointer;
+}
+
+.item-information img{
+    width: 390px;
+}
+
+.item-information p{
+    margin-top: 10px;
+    padding-bottom: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.polpe-box-full{
+    padding: 50px;
+    background: #2c237a;
+}
+
+.pople-box h2{
+    padding-bottom: 4rem;
+    font-size: 50px;
+}
+
+.pople-box p{
+    width: 60rem;
+    color: rgb(214, 214, 214);
+}
+
+.info-personal{
+    padding: 2rem 2rem 1rem 2rem;
+    color: rgb(78, 78, 78);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.box-pople-info{
+    background: white;
+    width: 35rem;
+    margin-top: -1rem;
+    padding: 1rem;
+}
+
+.personal-age-name{
+    padding: 3rem;
+    color:rgb(36, 35, 35);
+    font-weight: bold;
+    font-size: 21px;
+}
+
+.box-pople-info a{
+    padding: 3rem;
+    color: #2c237a;
+}
+
+.personal-age-name b{
+    color: #2c237a;
+}
+
+#center-polple{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8rem;
+}
+
